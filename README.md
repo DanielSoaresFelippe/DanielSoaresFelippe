@@ -44,4 +44,5 @@
 [![Instagram](https://img.shields.io/badge/-Dan_Soaresz-purple?style=flat-square&logo=Instagram&logoColor=white&link={https://www.instagram.com/dan_soaresz.dev/})]({https://www.instagram.com/dan_soaresz.dev/})
 [![Twitter Follow](https://img.shields.io/twitter/follow/Dan_Soaress?style=social)]({https://x.com/Dan_Soaress})
 
-![DiasEllen26 GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielSoaresFelippe\&rank_icon=percentile)
+
+
